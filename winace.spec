@@ -6,6 +6,7 @@ Release:	1
 License:	Shareware
 Group:		Applications/Archiving
 Source0:	http://www.winace.mewa.net/mirror/linunace%(echo %{version} | tr -d .).tgz
+# Source0-md5:	218020e64975775e191077a195732735
 URL:		http://www.winace.com/
 Obsoletes:	unace
 ExclusiveArch:	%{ix86}
