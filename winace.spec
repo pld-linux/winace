@@ -1,7 +1,7 @@
 Summary:	unACE - extract, test and view ACE archives
 Summary(pl):	unACE - rozpakowuje, testuje i przegl±da archiwa ACE
 Name:		winace
-Version:	2.04
+Version:	2.2
 Release:	1
 License:	Shareware
 Group:		Applications/Archiving
