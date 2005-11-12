@@ -1,12 +1,12 @@
 Summary:	unACE - extract, test and view ACE archives
 Summary(pl):	unACE - rozpakowuje, testuje i przegl±da archiwa ACE
 Name:		winace
-Version:	2.2
+Version:	2.5
 Release:	1
 License:	Shareware
 Group:		Applications/Archiving
-Source0:	http://www.shedz.com/winace/linunace%(echo %{version} | tr -d .).tgz
-# Source0-md5:	218020e64975775e191077a195732735
+Source0:	http://www.winace.com/files/linunace%(echo %{version} | tr -d .).tgz
+# Source0-md5:	ad1f8cb7ff3a6c6019da869b72300719
 URL:		http://www.winace.com/
 Obsoletes:	unace
 ExclusiveArch:	%{ix86}
