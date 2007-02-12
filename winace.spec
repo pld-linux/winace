@@ -1,5 +1,5 @@
 Summary:	unACE - extract, test and view ACE archives
-Summary(pl):	unACE - rozpakowuje, testuje i przegl±da archiwa ACE
+Summary(pl.UTF-8):   unACE - rozpakowuje, testuje i przeglÄ…da archiwa ACE
 Name:		winace
 Version:	2.5
 Release:	1
@@ -17,10 +17,10 @@ The unACE utility is a shareware program, distributed without source
 code and developed for extracting, testing and viewing the contents of
 archives created with the ACE archiver.
 
-%description -l pl
-UnACE jest programem shareware, rozpowszechnianym bez kodu ¼ród³owego,
-przeznaczonym do rozpakowywania, testowania oraz przegl±dania
-zawarto¶ci archiwów stworzonych przez program ACE.
+%description -l pl.UTF-8
+UnACE jest programem shareware, rozpowszechnianym bez kodu ÅºrÃ³dÅ‚owego,
+przeznaczonym do rozpakowywania, testowania oraz przeglÄ…dania
+zawartoÅ›ci archiwÃ³w stworzonych przez program ACE.
 
 %prep
 %setup -q -c
