@@ -1,5 +1,5 @@
 Summary:	unACE - extract, test and view ACE archives
-Summary(pl.UTF-8):   unACE - rozpakowuje, testuje i przegląda archiwa ACE
+Summary(pl.UTF-8):	unACE - rozpakowuje, testuje i przegląda archiwa ACE
 Name:		winace
 Version:	2.5
 Release:	1
